@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Sebastian Løvik](https://github.com/Sebastian Løvik)
+* Keyboard Maintainer: [Sebastian Løvik](https://github.com/seblov)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
