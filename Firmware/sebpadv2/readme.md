@@ -10,7 +10,7 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make sebpadv2:default
+    make sebpadv2:vial
 
 Flashing example for this keyboard:
 
